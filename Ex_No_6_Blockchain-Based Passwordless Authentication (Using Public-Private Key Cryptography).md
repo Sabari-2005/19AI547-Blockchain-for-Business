@@ -101,6 +101,7 @@ Users sign a challenge with their private key for authentication.
 
 
 The smart contract verifies signatures to confirm identity.
+<img width="1919" height="1075" alt="image" src="https://github.com/user-attachments/assets/c2f6a527-766f-48b8-bcfc-1db3242f4661" />
 
 
 
