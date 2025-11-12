@@ -100,6 +100,7 @@ If the buyer’s offer is fair, the deal is executed.
 
 If the offer is too low, the contract suggests a counteroffer.
 
+<img width="1917" height="1044" alt="image" src="https://github.com/user-attachments/assets/31dc1dce-13df-47ce-8e72-0b9333e21342" />
 
 
 # High-Level Overview:
@@ -115,5 +116,5 @@ Can be extended to AI oracles for real-time market data.
 Inspired by AI-enhanced commerce and eBay-like decentralized auctions.
 
 # RESULT:
-
+THUS THE AI_POWERED SMART CONTRACT HAS BEEN EXECUTED SUCCESSFULLY
 
