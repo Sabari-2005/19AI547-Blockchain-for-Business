@@ -4,7 +4,7 @@ To implement a secure passwordless authentication system using public-private ke
 
 # Algorithm:
 Step 1: User Registration
-A user registers with their Ethereum public key (instead of a password).
+A user registers with their Ethereum public key (instead of a password)
 
 
 Step 2: Login Process
