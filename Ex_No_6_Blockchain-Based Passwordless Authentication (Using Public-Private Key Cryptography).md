@@ -115,3 +115,5 @@ Uses Ethereum's built-in cryptographic functions.
 Inspired by Web3 login solutions like MetaMask authentication.
 
 # RESULT: 
+Thus, the output is verified and deployed successfully.
+
